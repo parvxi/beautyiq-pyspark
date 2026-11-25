@@ -10,8 +10,6 @@ A PySpark data engineering project exploring Amazon Beauty & Personal Care revie
 
 `Python` · `PySpark 3.5.3` · `Spark SQL` · `Parquet` · `MLlib`
 
-**Shahad Baalkhashir** | Duke University · IDS 706: Data Engineering Systems · Week 12
-
 ## Overview
 
 I wanted to use this assignment to investigate a question I find interesting as a consumer: whether the price and popularity of beauty products reflect the experience of the people who buy them. I built a pipeline that combines product metadata with millions of customer reviews to examine category trends, rating differences, pricing and brand performance.
@@ -294,7 +292,3 @@ The large `output/gold/review_facts` dataset (988 MB in the recorded run) is als
 
 - Hou et al. (2024). *Bridging Language and Items for Retrieval and Recommendation.* Amazon Reviews 2023 dataset.
 - [Apache Spark documentation](https://spark.apache.org/docs/3.5.3/).
-
----
-
-<sub>Academic project · Duke University · Fall 2026. Header artwork is illustrative, not a visualization of measured results.</sub>
